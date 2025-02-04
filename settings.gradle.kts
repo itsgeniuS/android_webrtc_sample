@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WebRTC Example"
+rootProject.name = "android_webrtc_sample"
 include(":app")
  
